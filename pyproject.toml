@@ -7,7 +7,7 @@ name = "documark"
 version = "0.4.0"
 description = "Markdown documentation for Python packages"
 readme = "README.md"
-requires-python = " >= 3.12"
+requires-python = " >= 3.11"
 classifiers = [ "Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License", "Operating System :: OS Independent",]
 keywords = [ "documentation", "markdown",]
 dependencies = []
